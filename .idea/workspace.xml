@@ -2,125 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="748e1efd-8140-46e9-a708-efa19d13e867" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/AAEAAQAAAAAAAAtiAAAAJDkzM2FiMzNjLTk5YWMtNGU0NS05YmFjLTc2YTcxYjEzMGU5NA.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/AAEAAQAAAAAAAAtiAAAAJDkzM2FiMzNjLTk5YWMtNGU0NS05YmFjLTc2YTcxYjEzMGU5NA_gtBUKvW.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcp_project/__init__.py" afterPath="$PROJECT_DIR$/fcp_project/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcp_project/settings.py" afterPath="$PROJECT_DIR$/fcp_project/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcp_project/urls.py" afterPath="$PROJECT_DIR$/fcp_project/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcp_project/wsgi.py" afterPath="$PROJECT_DIR$/fcp_project/wsgi.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/__init__.py" afterPath="$PROJECT_DIR$/games/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/admin.py" afterPath="$PROJECT_DIR$/games/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/apps.py" afterPath="$PROJECT_DIR$/games/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/games/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0002_auto_20170408_0300.py" afterPath="$PROJECT_DIR$/games/migrations/0002_auto_20170408_0300.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0003_auto_20170408_1614.py" afterPath="$PROJECT_DIR$/games/migrations/0003_auto_20170408_1614.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0004_auto_20170409_1643.py" afterPath="$PROJECT_DIR$/games/migrations/0004_auto_20170409_1643.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0005_auto_20170409_1912.py" afterPath="$PROJECT_DIR$/games/migrations/0005_auto_20170409_1912.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0006_auto_20170410_2251.py" afterPath="$PROJECT_DIR$/games/migrations/0006_auto_20170410_2251.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0007_auto_20170410_2349.py" afterPath="$PROJECT_DIR$/games/migrations/0007_auto_20170410_2349.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0008_auto_20170411_0006.py" afterPath="$PROJECT_DIR$/games/migrations/0008_auto_20170411_0006.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0009_auto_20170411_1111.py" afterPath="$PROJECT_DIR$/games/migrations/0009_auto_20170411_1111.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0010_auto_20170411_1111.py" afterPath="$PROJECT_DIR$/games/migrations/0010_auto_20170411_1111.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0011_auto_20170411_1112.py" afterPath="$PROJECT_DIR$/games/migrations/0011_auto_20170411_1112.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0012_auto_20170411_1112.py" afterPath="$PROJECT_DIR$/games/migrations/0012_auto_20170411_1112.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0013_auto_20170411_1112.py" afterPath="$PROJECT_DIR$/games/migrations/0013_auto_20170411_1112.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0014_auto_20170411_1113.py" afterPath="$PROJECT_DIR$/games/migrations/0014_auto_20170411_1113.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/0015_auto_20170412_0431.py" afterPath="$PROJECT_DIR$/games/migrations/0015_auto_20170412_0431.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/migrations/__init__.py" afterPath="$PROJECT_DIR$/games/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/models.py" afterPath="$PROJECT_DIR$/games/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/static/games/bootstrap.min.css" afterPath="$PROJECT_DIR$/games/static/games/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/templates/games/base.html" afterPath="$PROJECT_DIR$/games/templates/games/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/templates/games/index.html" afterPath="$PROJECT_DIR$/games/templates/games/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/templates/games/show.html" afterPath="$PROJECT_DIR$/games/templates/games/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/tests.py" afterPath="$PROJECT_DIR$/games/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/urls.py" afterPath="$PROJECT_DIR$/games/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/views.py" afterPath="$PROJECT_DIR$/games/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/__init__.py" afterPath="$PROJECT_DIR$/genres/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/admin.py" afterPath="$PROJECT_DIR$/genres/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/apps.py" afterPath="$PROJECT_DIR$/genres/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/genres/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/migrations/__init__.py" afterPath="$PROJECT_DIR$/genres/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/models.py" afterPath="$PROJECT_DIR$/genres/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/templates/genres/base.html" afterPath="$PROJECT_DIR$/genres/templates/genres/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/templates/genres/index.html" afterPath="$PROJECT_DIR$/genres/templates/genres/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/templates/genres/show.html" afterPath="$PROJECT_DIR$/genres/templates/genres/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/templates/index.html" afterPath="$PROJECT_DIR$/genres/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/templates/show.html" afterPath="$PROJECT_DIR$/genres/templates/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/tests.py" afterPath="$PROJECT_DIR$/genres/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/urls.py" afterPath="$PROJECT_DIR$/genres/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genres/views.py" afterPath="$PROJECT_DIR$/genres/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/static/games.css" afterPath="$PROJECT_DIR$/media/static/games.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/__init__.py" afterPath="$PROJECT_DIR$/payments/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/admin.py" afterPath="$PROJECT_DIR$/payments/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/apps.py" afterPath="$PROJECT_DIR$/payments/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/payments/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/migrations/__init__.py" afterPath="$PROJECT_DIR$/payments/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/models.py" afterPath="$PROJECT_DIR$/payments/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/tests.py" afterPath="$PROJECT_DIR$/payments/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/payments/views.py" afterPath="$PROJECT_DIR$/payments/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/__init__.py" afterPath="$PROJECT_DIR$/platforms/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/admin.py" afterPath="$PROJECT_DIR$/platforms/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/apps.py" afterPath="$PROJECT_DIR$/platforms/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/platforms/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/migrations/__init__.py" afterPath="$PROJECT_DIR$/platforms/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/models.py" afterPath="$PROJECT_DIR$/platforms/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/tests.py" afterPath="$PROJECT_DIR$/platforms/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/views.py" afterPath="$PROJECT_DIR$/platforms/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/__init__.py" afterPath="$PROJECT_DIR$/purchases/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/admin.py" afterPath="$PROJECT_DIR$/purchases/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/apps.py" afterPath="$PROJECT_DIR$/purchases/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/purchases/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0002_purchase_member.py" afterPath="$PROJECT_DIR$/purchases/migrations/0002_purchase_member.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0003_auto_20170408_0300.py" afterPath="$PROJECT_DIR$/purchases/migrations/0003_auto_20170408_0300.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0004_auto_20170408_1614.py" afterPath="$PROJECT_DIR$/purchases/migrations/0004_auto_20170408_1614.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0005_auto_20170409_1643.py" afterPath="$PROJECT_DIR$/purchases/migrations/0005_auto_20170409_1643.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0006_auto_20170409_1912.py" afterPath="$PROJECT_DIR$/purchases/migrations/0006_auto_20170409_1912.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0007_auto_20170410_2251.py" afterPath="$PROJECT_DIR$/purchases/migrations/0007_auto_20170410_2251.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0008_auto_20170410_2349.py" afterPath="$PROJECT_DIR$/purchases/migrations/0008_auto_20170410_2349.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0009_auto_20170411_0006.py" afterPath="$PROJECT_DIR$/purchases/migrations/0009_auto_20170411_0006.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0010_auto_20170411_1111.py" afterPath="$PROJECT_DIR$/purchases/migrations/0010_auto_20170411_1111.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0011_auto_20170411_1111.py" afterPath="$PROJECT_DIR$/purchases/migrations/0011_auto_20170411_1111.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0012_auto_20170411_1112.py" afterPath="$PROJECT_DIR$/purchases/migrations/0012_auto_20170411_1112.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0013_auto_20170411_1112.py" afterPath="$PROJECT_DIR$/purchases/migrations/0013_auto_20170411_1112.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0014_auto_20170412_0431.py" afterPath="$PROJECT_DIR$/purchases/migrations/0014_auto_20170412_0431.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0015_auto_20170412_0649.py" afterPath="$PROJECT_DIR$/purchases/migrations/0015_auto_20170412_0649.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/0016_purchase_payment.py" afterPath="$PROJECT_DIR$/purchases/migrations/0016_purchase_payment.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/migrations/__init__.py" afterPath="$PROJECT_DIR$/purchases/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/models.py" afterPath="$PROJECT_DIR$/purchases/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/templates/purchases/base.html" afterPath="$PROJECT_DIR$/purchases/templates/purchases/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/templates/purchases/index.html" afterPath="$PROJECT_DIR$/purchases/templates/purchases/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/tests.py" afterPath="$PROJECT_DIR$/purchases/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/urls.py" afterPath="$PROJECT_DIR$/purchases/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/purchases/views.py" afterPath="$PROJECT_DIR$/purchases/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/__init__.py" afterPath="$PROJECT_DIR$/rewards/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/admin.py" afterPath="$PROJECT_DIR$/rewards/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/apps.py" afterPath="$PROJECT_DIR$/rewards/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/helpers.py" afterPath="$PROJECT_DIR$/rewards/helpers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/rewards/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0002_auto_20170408_1614.py" afterPath="$PROJECT_DIR$/rewards/migrations/0002_auto_20170408_1614.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0003_auto_20170409_1643.py" afterPath="$PROJECT_DIR$/rewards/migrations/0003_auto_20170409_1643.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0004_auto_20170409_1912.py" afterPath="$PROJECT_DIR$/rewards/migrations/0004_auto_20170409_1912.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0005_auto_20170412_0431.py" afterPath="$PROJECT_DIR$/rewards/migrations/0005_auto_20170412_0431.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/0006_remove_reward_check.py" afterPath="$PROJECT_DIR$/rewards/migrations/0006_remove_reward_check.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/migrations/__init__.py" afterPath="$PROJECT_DIR$/rewards/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/models.py" afterPath="$PROJECT_DIR$/rewards/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/tests.py" afterPath="$PROJECT_DIR$/rewards/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/urls.py" afterPath="$PROJECT_DIR$/rewards/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rewards/views.py" afterPath="$PROJECT_DIR$/rewards/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/__init__.py" afterPath="$PROJECT_DIR$/tags/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/admin.py" afterPath="$PROJECT_DIR$/tags/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/apps.py" afterPath="$PROJECT_DIR$/tags/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/forms.py" afterPath="$PROJECT_DIR$/tags/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/tags/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/migrations/__init__.py" afterPath="$PROJECT_DIR$/tags/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/models.py" afterPath="$PROJECT_DIR$/tags/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/templates/tags/base.html" afterPath="$PROJECT_DIR$/tags/templates/tags/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/templates/tags/index.html" afterPath="$PROJECT_DIR$/tags/templates/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/templates/tags/show.html" afterPath="$PROJECT_DIR$/tags/templates/tags/show.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/tests.py" afterPath="$PROJECT_DIR$/tags/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/urls.py" afterPath="$PROJECT_DIR$/tags/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/views.py" afterPath="$PROJECT_DIR$/tags/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/models.py" afterPath="$PROJECT_DIR$/users/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -138,77 +21,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="show.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/games/templates/games/show.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-588">
-              <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/games/templates/games/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67">
-              <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genres/views.py">
+        <entry file="file://$PROJECT_DIR$/tags/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <marker date="1493457980662" expanded="true" signature="213:264" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genres/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genres/templates/genres/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding>
-                <marker date="1493457980618" expanded="true" signature="717:831" ph="..." />
-                <marker date="1493457980618" expanded="false" signature="802:808" ph=" " />
-                <marker date="1493457980618" expanded="true" signature="874:912" ph="{% block content ... %}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genres/templates/genres/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="94" lean-forward="false" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+            <state relative-caret-position="651">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genres/urls.py">
+        <entry file="file://$PROJECT_DIR$/tags/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="147">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -216,14 +43,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/views.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags/templates/tags/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-              <folding>
-                <marker date="1493457981567" expanded="true" signature="293:340" ph="..." />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -254,10 +89,11 @@
       <find>c</find>
       <find>check</find>
       <find>form</find>
-      <find>add your</find>
       <find>featu</find>
       <find>recom</find>
       <find>recomme</find>
+      <find>add your</find>
+      <find>tag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -283,10 +119,10 @@
         <option value="$PROJECT_DIR$/purchases/templates/purchases/base.html" />
         <option value="$PROJECT_DIR$/users/form.py" />
         <option value="$PROJECT_DIR$/users/templates/users/form-template.html" />
-        <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/games/templates/games/base.html" />
         <option value="$PROJECT_DIR$/users/views.py" />
         <option value="$PROJECT_DIR$/games/templates/games/show.html" />
+        <option value="$PROJECT_DIR$/users/models.py" />
       </list>
     </option>
   </component>
@@ -931,14 +767,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/users/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/templates/users/member_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1037,30 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tags/templates/tags/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags/templates/tags/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags/templates/tags/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/games/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1149,22 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/games/templates/games/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/games/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1237,31 +1025,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tags/views.py">
+    <entry file="file://$PROJECT_DIR$/genres/templates/show.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-          <folding>
-            <marker date="1493457981567" expanded="true" signature="293:340" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games/templates/games/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        <state relative-caret-position="336">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genres/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1269,9 +1037,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <marker date="1493457980662" expanded="true" signature="213:264" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,29 +1051,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/genres/templates/genres/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="217">
           <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
-            <marker date="1493457980618" expanded="true" signature="717:831" ph="..." />
-            <marker date="1493457980618" expanded="false" signature="802:808" ph=" " />
-            <marker date="1493457980618" expanded="true" signature="874:912" ph="{% block content ... %}" />
+            <element signature="e#802#808#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genres/templates/genres/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1092">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genres/templates/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1319,10 +1067,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/genres/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/templates/games/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/templates/games/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/templates/tags/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/templates/tags/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genres/templates/genres/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/templates/tags/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/games/templates/games/show.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="861">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding />
         </state>
       </provider>

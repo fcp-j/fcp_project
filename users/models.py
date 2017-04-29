@@ -11,7 +11,7 @@ from django.utils import timezone
 class Member(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     display_name = models.CharField(max_length = 200)
-    reserved_amount = models.DecimalField(max_digits=6, decimal_places=2, default=0, blank=True)
+    reserved_amount = models.DecimalField(max_digits=6, decimal_places=2, default=8, blank=True)
     games = models.ManyToManyField("games.Game", through="purchases.Purchase", blank=True)
     avatar = models.ImageField(default=0, blank=True)
 
