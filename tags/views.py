@@ -10,15 +10,19 @@ from games.models import Game
 @login_required
 def index(request):
     tags = Tag.objects.all().order_by('name')
+    member = request.user.member
+    member.remove_expired_rewards
 
-    return render(request, 'tags/index.html', {'tags': tags})
+    return render(request, 'tags/index.html', {'tags': tags, 'member': member})
 
 @login_required
 def show(request, name):
     tag = Tag.objects.get(name=name)
     games = Game.objects.filter(tags__in=[tag]).order_by('release_datetime')
+    member = request.user.member
+    member.remove_expired_rewards
 
-    return render(request, 'tags/show.html', {'tag': tag, 'games': games})
+    return render(request, 'tags/show.html', {'tag': tag, 'games': games, 'member': member})
 
 @login_required
 def new(request, gameID):
@@ -38,5 +42,5 @@ def new(request, gameID):
 
                 tag.save()
                 game.tags.add(tag)
-  
+
     return redirect(reverse('games:game', kwargs={'id': gameID}))

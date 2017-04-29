@@ -30,5 +30,5 @@ def show(request, id):
     game = Game.objects.get(pk=id)
     tag_form = TagForm()
     rewards = Reward.objects.filter(member=member, purchase__isnull=True)
-    
-    return render(request, 'games/show.html', {'game': game, 'tag_form': tag_form, 'rewards': rewards})
+
+    return render(request, 'games/show.html', {'game': game, 'tag_form': tag_form, 'rewards': rewards, 'member': member})

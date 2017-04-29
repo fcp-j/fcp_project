@@ -33,6 +33,11 @@
         <li><a href="{% url 'genres:genres' %}">Browse By Genre</a></li>
         <li><a href="{% url 'purchases:purchases' %}">Browse By Previously Purchased</a></li>
         <li class = "">
+            <a href = "">
+                <img src= '/media/{{ member.avatar}}' class ="img-responsive">
+            </a>
+        </li>
+        <li class = "">
             <a href = "{% url 'users:logout_view' %}">
                 <span class ="glyphicon glyphicon-off" aria-hidden ="true"> </span>&nbsp; Logout
             </a>

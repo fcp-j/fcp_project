@@ -14,8 +14,10 @@ from django.core.mail import EmailMessage
 @login_required
 def index(request):
     purchases = Purchase.objects.filter(member=request.user.member).order_by('datetime')
+    member = request.user.member
+    member.remove_expired_rewards
 
-    return render(request, 'purchases/index.html', {'purchases': purchases})
+    return render(request, 'purchases/index.html', {'purchases': purchases, 'member': member})
 
 @login_required
 def new(request, gameID):
@@ -37,7 +39,7 @@ def new(request, gameID):
                     game = game,
                     payment = payment
                 )
-                
+
                 member.use_rewards(rewards_used, purchase)
                 email = EmailMessage('Purchase Confirmation',
                                      'Dear ' + request.user.username + ',\n' + 'Thank you for purchasing ' + purchase.game.name + '!',
