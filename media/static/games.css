@@ -31,6 +31,7 @@ a {
 }
 
 .menu ul {
+  margin-top: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -196,7 +197,7 @@ a {
 .main {
   margin: 30px auto;
   width: 70%;
-  min-height: 700px
+  min-height: 550px
 }
 
 .main.profile {
@@ -288,6 +289,11 @@ a {
   cursor: pointer;
 }
 
+.main.home ul.games .rec {
+  width: 250px;
+  height: 250px;
+}
+
 .main.home ul.games li:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
@@ -341,6 +347,8 @@ a {
 
 .main .row {
   width: 100%;
+  margin-left: 0;
+  margin-right: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -421,6 +429,7 @@ a {
 .main .row .right .tags ul li {
   font-size: 16px;
   border: 1px solid #AAA;
+  display: inline-table;
   list-style: none;
   padding: 8px 13px;
   border-radius: 3px;
@@ -612,4 +621,10 @@ div.tags {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+.menu img {
+  height: 50px;
+  margin: 10px 0;
+  border-radius: 50%;
 }

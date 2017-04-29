@@ -42,7 +42,7 @@
         <ul class="games">
           {% for game in recommended_games %}
           <a href="{% url 'games:game' game.id %}">
-            <li class="game" style="background-image: url('/media/{{ game.image }}'); background-size: cover;">
+            <li class="game rec" style="background-image: url('/media/{{ game.image }}'); background-size: cover;">
               <div class="overlay">
                 <span class="genre">{{ game.genre }}</span>
                 <h2>
